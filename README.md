@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # vue-element-template
 vue后台管理模板
 =======
@@ -102,3 +103,7 @@ Modern browsers and Internet Explorer 10+.
 
 Copyright (c) 2017-present PanJiaChen
 >>>>>>> 6b62a65... first commit
+=======
+# vue-element-admin
+vue-element-admin
+>>>>>>> c8f94f0e82721f78f151b41dd20f0fca40518624
